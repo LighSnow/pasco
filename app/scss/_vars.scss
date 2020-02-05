@@ -1,0 +1,36 @@
+@mixin m400 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+@mixin m600 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+@mixin m700 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+
+@mixin m900 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+
+@mixin os400 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+@mixin os600 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+@mixin os700 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
